@@ -23,23 +23,6 @@
 
 ---
 
-## 🚀 What I Build
-
-```
-📧 Raw CSV Email
-      ↓
-🔄 n8n Automation Pipeline
-      ↓
-🗄️ SQL Server Database
-      ↓
-🤖 AI Analysis (OpenRouter/Gemini)
-      ↓
-📊 Executive HTML Dashboard → Inbox
-```
-
-> *Automated supply chain KPI reporting — zero manual effort*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -66,46 +49,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔄 Supply Chain Automation Pipeline
-> AI-powered end-to-end data pipeline using n8n, SQL Server, and LLM
-
-- 📧 Gmail trigger detects CSV attachments automatically
-- 🔀 Smart routing by filename using Switch node
-- 🗄️ Inserts data into Microsoft SQL Server via Docker
-- 🤖 AI compares today vs yesterday KPIs
-- 📊 Generates executive HTML dashboard email automatically
-- **Stack:** n8n • SQL Server • Docker • OpenRouter AI • Gmail API
-
----
-
-### 📊 Medical Insurance Cost Prediction
-> ML model predicting insurance costs with feature engineering
-
-- Built regression pipeline with Python and Scikit-Learn
-- Performed EDA, feature selection, and model evaluation
-- **Stack:** Python • Pandas • Scikit-Learn • Matplotlib
-
----
-
-### 📈 Bangladesh Export Performance Analysis
-> Comprehensive analysis of Bangladesh's export trends
-
-- Analyzed multi-year export data across sectors
-- Built interactive visualizations for stakeholder reporting
-- **Stack:** Python • Pandas • Tableau
-
----
-
-### 👥 HR Analytics Dashboard
-> Employee attrition analysis and prediction
-
-- Identified key drivers of employee turnover
-- Built interactive Power BI dashboard
-- **Stack:** Python • Power BI • Excel
-
----
 
 ## 📊 GitHub Stats
 
