@@ -12,11 +12,13 @@
 
 ## About
 
-- Pursuing an **M.S. in Applied Statistics & Data Science** at Jahangirnagar University
-- Started in **Islamic History & Culture** (B.A., Dhaka University) — then pivoted into data through a **Professional Diploma in Data Science & Machine Learning** at DIPTI
-- Work across **SQL, Python, Excel, Power BI, and Tableau** for analysis and reporting
-- Build automation pipelines with **n8n, SQL Server, and LLMs** — including a Gmail-triggered ingestion pipeline and an LLM-generated KPI reporting system
-- Based in Dhaka, Bangladesh
+I'm Rifatul, a graduate student pursuing an **M.S. in Applied Statistics and Data Science** at Jahangirnagar University. My focus is on building strong analytical and technical fundamentals to grow into a capable data analyst.
+
+I hold an undergraduate degree in **Islamic History and Culture** from Dhaka University. Alongside this, I completed a **Professional Diploma in Data Science & Machine Learning** from DIPTI (Daffodil International Professional Training Institute) — the foundation of my technical transition into data.
+
+On the technical side, I work with **Excel, Power BI, and Tableau** for reporting and visualization; **MySQL and T-SQL** for querying and data management; **Python** — including Pandas and NumPy — for data analysis, with Matplotlib, Seaborn, and Plotly/Dash for visualization; and I apply **statistics and machine learning** concepts in my analytical work. I also use **n8n** to automate data workflows.
+
+Beyond the technical side, I bring leadership experience from serving as **General Secretary** in two university organizations — work that sharpened my ability to translate ideas into action within a team.
 
 <br>
 
